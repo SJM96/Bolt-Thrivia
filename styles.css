@@ -1,0 +1,15 @@
+body {
+	background-color: black;
+}
+
+canvas {
+	font-family: 'IM Fell English', serif;
+    border: 5px ridge #7d7a7a;
+	background-image: url("sources/background.png");
+    background-color: #796668;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	-ms-transform: translateX(-50%) translateY(-50%);
+	transform: translateX(-50%) translateY(-50%);
+}
